@@ -1,0 +1,41 @@
+/*文本状态栏*/
+.center-contant-body .text{
+	text-align: center;
+	
+}
+.center-contant-body .text img{
+	margin-top: 75px;
+}
+.center-contant-body .text h3{
+	font-size: 18px;
+	font-weight: normal;
+}
+.center-contant-body .text p{
+	font-size: 13px;
+	line-height: 23px;
+	color: #828282;
+}
+/*地图部分*/
+.center-contant-body .ditu{
+	margin-bottom: 0px;
+	margin-top: 90px;
+	height: 400px;
+	width: 720px;
+	border: 1px solid #E1E6E5;
+	padding: 0px;
+}
+.center-contant-body .ditu .ditu-head{
+	width: 718px;
+	height: 50px;
+	border-bottom: 1px solid #E1E6E5;
+	background-color: #F6F6F6;
+	line-height: 50px;
+	text-align: left;
+	padding-left: 25px;
+	box-sizing: border-box;
+}
+
+.center-contant-body .ditu .ditu-photo img{
+	margin-top: 0px;
+	width: 100%;
+}

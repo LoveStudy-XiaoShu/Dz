@@ -1,0 +1,52 @@
+/*下载中心裂变封装*/
+.center-contant-body .text .text-content {
+	margin-top: 57px;
+}
+.center-contant-body .text .text-content ul {
+	margin: 0px;
+	padding: 0px;
+}
+.center-contant-body .text .text-content ul li{
+	margin: 0px;
+	padding: 0px;
+	height: 48px;
+	list-style: none;
+	color: black;
+	
+}
+.center-contant-body .text .text-content ul li span{
+	float: right;
+	color: #888888;
+}
+/*菜单轮播栏样式封装*/
+.center-contant-body .text .beanw{
+	margin-left: 130px;
+	margin-top: 77px;
+}
+.center-contant-body .text .beanw ul{
+	margin: 0px;
+	padding: 0px;
+	color: #E5E5E5;
+}
+.center-contant-body .text .beanw ul li{
+	list-style: none;
+	font-size: 13px;
+	margin: 0px 0px 0px 6px;
+	padding: 0px;
+	width: 36px;
+	height: 36px;
+	line-height: 36px;
+	border: 1px solid #E5E5E5;
+	display: inline-block;
+	text-align: center;
+	line-height: 36px;
+	color: #E5E5E5;
+	margin-right: 0px;
+}
+.center-contant-body .text .beanw ul li:nth-of-type(6){
+	margin-right: 6px;
+}
+.center-contant-body .text .beanw ul li:hover{
+	background-color: #CC0100;
+	border: 1px solid #CC0100;
+}

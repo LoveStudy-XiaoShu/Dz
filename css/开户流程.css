@@ -1,0 +1,87 @@
+	
+.center-contant-body .text .text-title-1{
+	font-size: 30px;
+	border-bottom: 1px solid #E5E5E5;
+	height: 74px;
+}
+.center-contant-body .text .text-title-1 p{
+	margin: 0px;
+	line-height: 74px;
+}
+
+.center-contant-body .text .text-title-2{
+	height: 78px;
+	width: 755px;
+	border-bottom: 1px solid #E5E5E5;
+	box-sizing: border-box;
+}
+.center-contant-body .text .text-title-2 ul{
+	padding: 0px;
+	margin-left: 195px;
+}
+.center-contant-body .text .text-title-2 ul li{
+	list-style: none;
+	float: left;
+	width: 82px;
+	height: 74px;
+	line-height: 74px;
+	text-align: center;
+	margin-top: 3px;
+}
+.center-contant-body .text .text-title-2 ul li:hover{
+	border-bottom: 1px solid black;
+}
+/*----------------------------*/
+.center-contant-body .text .text-content1 ul {
+	padding: 0px;
+	margin: 0px;
+}
+.center-contant-body .text .text-content1 ul li{
+	list-style: none;
+	width: 740px;
+	position: relative;
+	margin-top: 46px;
+}
+.center-contant-body .text .text-content1 ul li span{
+	display: inline-block;
+	height: 50px;
+	width: 50px;
+	border-radius: 50%;
+	line-height: 50px;
+	text-align: center;
+	box-sizing: border-box;
+	position: absolute;
+	font-size: 20px;
+	color: white;
+}
+.center-contant-body .text .text-content1 ul li p{
+	margin:0px 0px 0px 0px;
+	display: inline-block;
+	width: 680px;
+	box-sizing: border-box;
+	font-size: 15px;
+}
+.center-contant-body .text .text-content1 ul li p:nth-of-type(1){
+	margin-left: 85px;
+}
+.center-contant-body .text .text-content1 ul li p:nth-of-type(2){
+	margin-left: 85px;
+	margin-top: 15px;
+	line-height: 30px;
+}
+/*园颜色*/	
+.center-contant-body .text .text-content1 ul li:nth-of-type(1) span{
+	background-color: #E6B9B7;
+}
+.center-contant-body .text .text-content1 ul li:nth-of-type(2) span{
+	background-color: #E7D6A5;
+}
+.center-contant-body .text .text-content1 ul li:nth-of-type(3) span{
+	background-color: #E7B9E2;
+}
+.center-contant-body .text .text-content1 ul li:nth-of-type(4) span{
+	background-color: #B8D0E5;
+}
+.center-contant-body .text .text-content1 ul li:nth-of-type(5) span{
+	background-color: #A8E2AB;
+}

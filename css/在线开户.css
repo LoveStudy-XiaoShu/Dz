@@ -1,0 +1,50 @@
+/*在线开户表单部分*/
+.B-form{
+	margin-top: 20px;
+}
+.B-form tr{
+	height: 62px;
+	line-height: 62px;
+	
+	
+}
+.B-form tr td:nth-of-type(1){
+	height: 42px;
+	width: 120px;
+	line-height: 42px;
+	text-align: right;
+	font-size: 17px;
+}
+.B-form tr td:nth-of-type(2){
+	height: 42px;
+}
+.B-form tr td input,.B-form tr select{
+	width: 343px;
+	height: 42px;
+	background-color: #F2F2F2;
+	border: 1px solid #E0E0E0;
+	box-sizing: border-box;
+	
+	
+}
+.B-form tr:nth-of-type(4) td input,.B-form tr select{
+	width: 200px;
+}
+.B-form tr td button{
+	margin-top: 46px;
+	border: none;
+	width: 202px;
+	height: 64px;
+	background: url(../image/开户流程/按钮1.png) no-repeat;
+}
+.text-bottom h2{
+	font-size: 20px;
+}
+.text-bottom p{
+	font-size: 12px;
+	color: #818181;
+}
+/*补充代码*/
+ul .onclick:hover  a {
+	color: white;
+}

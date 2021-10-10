@@ -1,0 +1,143 @@
+/*banner部分*/
+body{
+	margin: 0px;
+}
+/*封装中间头部分*/
+.con-f{
+	margin-top: -5PX;
+	height: 995px;
+	box-sizing:  border-box;
+}
+.center-contant-top{
+	height: 50px;
+	background-color: #F5F5F5;
+}
+.center-contant-top span{
+	font-size: 13px;
+	color: #686868;
+	line-height: 50px;
+	display: inline-block;
+	float: right;
+}
+/*列表封装*/
+.center-contant-body .list{
+	padding: 0px;
+	margin: 0px;
+	width: 200px;
+}
+.center-contant-body .list ul{
+	margin: 0px;
+	padding: 0px;
+}
+.center-contant-body .list ul li{
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+	width: 200px;
+	height: 67px;
+	border: 1px solid transparent;
+	background-color: #F5F5F5;
+	text-align: center;
+	line-height: 67px;
+	color: #323232;
+	font-size: 13px;
+	box-sizing: border-box;
+}
+.center-contant-body .list ul .onclick:hover{
+	background-color: #CC0100;
+	color: white;
+}
+.center-contant-body .list ul li:nth-of-type(1) h3{
+	font-size: 34px;
+	margin-top: 47px;
+}
+.center-contant-body .list ul li:nth-of-type(1) p{
+	display: block;
+	margin-left: 37px;
+	font-size: 13px;
+	color: #7F6144;
+	text-align: left;
+}
+.center-contant-body .list ul li:nth-of-type(1){
+	height: 126px;
+	color: white;
+	line-height: 0px;
+	background-color: #443130;
+}
+/*底部开户状态栏封装*/
+.center-contant-body .list ul .k-f .k-text{
+	display: inline-block;
+	float: right;
+}
+
+.center-contant-body .list ul .k-f{
+	padding: 16px 18px 0px 18px;
+	margin-top: 30px;
+	background-color: white;
+	border: 1px solid #E6E6E6;
+	
+}
+.center-contant-body .list ul .k-f-second{
+	margin-top: 20px;
+}
+.center-contant-body .list ul .k-f .k-text p:nth-of-type(1){
+	font-size: 20px;
+	color: #CA0200;
+	margin-top: 11px;
+	font-weight: bold;
+	
+	}
+.center-contant-body .list ul .k-f .k-text p:nth-of-type(2){
+	font-size: 10px;
+	color: #c0c0c0;
+}
+.center-contant-body .list ul  .k-f{
+	line-height: 0PX;
+	text-align: left;
+}
+.center-contant-body .list ul .k-f-second .k-text p:nth-of-type(1){
+	font-size: 12px;
+	color: #c0c0c0;
+}
+.center-contant-body .list ul .k-f-second .k-text p:nth-of-type(2){
+	font-size: 17px;
+	color:#CA0200 ;
+	font-weight: bold;
+}
+/*文档内容部分封装*/
+.text{
+	width: 750px;
+	margin-left: 70px;
+	box-sizing: border-box;
+}
+.text{
+
+}
+.text .text-title{
+	padding-top: 25px;
+	border-bottom: 1px solid #E5E5E5;
+	padding-bottom: 20px;
+}
+.text .text-title h2{
+	font-size: 24px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+.text .text-title p{
+	margin-top: 16px;
+	font-size: 10px;
+	color: #7E7E7E;
+}
+
+
+
+.text .text-content{
+	margin-top: 26px;
+	font-size: 12px;
+	color: #969696;
+	line-height: 30px;
+}
+	
+.text .text-img{
+	margin-top: 70px;
+}
